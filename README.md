@@ -1,2 +1,2 @@
-# Online-Store-DevOps
+# Iced-Latte-DevOps
 E-shop for educational purposes (DevOps)
