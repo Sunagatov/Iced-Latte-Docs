@@ -1,2 +1,2 @@
-# Iced-Latte-DevOps
-E-shop for educational purposes (DevOps)
+# Iced-Latte-Docs
+E-shop for educational purposes (Docs)
