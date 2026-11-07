@@ -2,6 +2,12 @@
 E-shop for educational purposes (Docs)
 
 
+<p>
+  <a href="https://buymeacoffee.com/lucky_1uck">
+    <img src="https://img.shields.io/badge/Support_the_project-FFDD00?style=for-the-badge&amp;logo=buymeacoffee&amp;logoColor=black" alt="Support the project" width="260" height="40">
+  </a>
+</p>
+
 🏄 Requirements		
 E1	Main web page (Products catalog)	https://docs.google.com/document/d/1Vz_hrda29alM-YSVJN4GgEIPrzarXTeOFsUjGcUwqnQ/edit?usp=share_link	
 E2	Product web page	https://docs.google.com/document/d/1-8brZGb0AddlOSaxiJ2tbFRTy7hFYAYVzK4BTWOUmOE/edit?usp=share_link 	
@@ -44,3 +50,16 @@ FE https://github.com/Sunagatov/Iced-Latte-Frontend
 QA https://github.com/Sunagatov/Iced-Latte-QA
 DevOps https://github.com/Sunagatov/Iced-Latte-DevOps
 			
+
+---
+
+## ☕ Support the project
+
+If this project helps you learn or inspires your own work, you can support its development.
+
+<p>
+  <a href="https://buymeacoffee.com/lucky_1uck">
+    <img src="https://img.shields.io/badge/Support_the_project-FFDD00?style=for-the-badge&amp;logo=buymeacoffee&amp;logoColor=black" alt="Support the project" width="260" height="40">
+  </a>
+</p>
+
